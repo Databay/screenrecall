@@ -1,6 +1,6 @@
 # ScreenRecall
 
-eine Script um in regelmäßigen Abständen alle Fenster des Linux-Desktops als Screenshots zu speichern und durchsuchbar zu machen
+a script to save all windows of the Linux desktop as screenshots at regular intervals and make them searchable
 
 ## installation
 
