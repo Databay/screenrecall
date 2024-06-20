@@ -1,0 +1,11 @@
+{
+  "screenshots": "/home/USER/screenshots",
+  "interval": 20,
+  "port": 4000,
+  "exclude": [
+  	 "mattermost",
+  	  "betterbird",
+  	   "Buddy-List",
+  	   "Privater Modus"
+  	   ]
+}

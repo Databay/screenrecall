@@ -30,7 +30,7 @@ copy the settings.json.dist into settings.json and configure
     "Buddy-List",
     "ScreenRecall",
     "Privater Modus",
-    "Inkognitortab
+    "Inkognitortab"
   ]
 }
 ```
